@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://readme-typing-svg.demolab.com?font=&weight=600&size=22&duration=3000&pause=20&color=00A44B&multiline=true&width=200&height=190&lines=void+main()%7B;while(1)%7B;cout%3C%3C%22Allah%22;%7D;%7D" alt="Typing SVG">
+<img height="150" align="right" src="https://readme-typing-svg.demolab.com?font=&weight=600&size=22&duration=3000&pause=20&color=00A44B&multiline=true&width=200&height=190&lines=void+main()%7B;while(1)%7B;cout%3C%3C%22Allah%22;%7D;%7D" alt="Typing SVG">
 
 <h3 align="center">
   Welcome to Ahmed Hofny's profile!
